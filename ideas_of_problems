@@ -1,0 +1,5 @@
+
+=> the problem of remove all duplictes of a linked list
+	1- build a function to count a spcific node
+	2- if count == 1: continue
+	3- call the function of remove all duplicates of a node
